@@ -19,8 +19,3 @@
 
 ## 📟 C++:
 ● Simple console Apps
-
-
-# 💻 Tech Stack:
-![C++]
-[Python]
