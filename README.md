@@ -1,6 +1,7 @@
-# 🪪 About Me:
+# 🪪About Me:
 
- 💻 Computer Student
+💻Computer Student
+📡Remote Freelance
 <br><br><br>
 ## 🐍Python Developer:
 <br>
