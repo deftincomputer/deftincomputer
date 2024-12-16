@@ -2,7 +2,7 @@
 
 ## 💻 Computer Student
 
-🐍Python Developer:
+## 🐍Python Developer:
 <br><br>
 ● Web Scraping<br><br>
 ● Automation <br><br>
