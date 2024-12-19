@@ -6,9 +6,9 @@
 ## 🐍Python Developer:
 <br>
 • Web Scraping<br><br>
-● Automation <br><br>
-● Cli and Gui Apps <br><br>
-● MySql<br><br><br><br>
+• Automation <br><br>
+• Cli and Gui Apps <br><br>
+ MySql<br><br><br><br>
 
 ## 🐧Linux:
 ● Ubuntu <br><br>
