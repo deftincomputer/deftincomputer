@@ -8,14 +8,14 @@
 • Web Scraping<br><br>
 • Automation <br><br>
 • Cli and Gui Apps <br><br>
- MySql<br><br><br><br>
+• MySql<br><br><br><br>
 
 ## 🐧Linux:
-● Ubuntu <br><br>
-● Kali <br><br><br><br>
+• Ubuntu <br><br>
+• Kali <br><br><br><br>
 
 ## 🌐Network:
-● Mikrotik<br><br><br><br>
+• Mikrotik<br><br><br><br>
 
 ## 📟 C++:
-● Simple console Apps<br><br>
+• Simple console Apps<br><br>
