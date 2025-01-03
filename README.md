@@ -1,4 +1,4 @@
-# 🪪About Me:
+# About Me:
 
 💻Computer Student<br><br>
 📡Remote Freelance
