@@ -14,7 +14,6 @@
 <br><br><br><br>
 
 ## 🐍Python Developer:
-<br>
 • Web Scraping<br><br>
 • Automation <br><br>
 • Cli and Gui Apps <br><br>
