@@ -1,19 +1,19 @@
 # About Me:
 
-💻Computer Student<br><br>
-📡Remote Freelance
+💻 Computer Student<br><br>
+📡 Remote Freelance
 <br><br><br>
 
-## 🐧Linux:
+## 🐧 Linux:
 • Ubuntu <br><br>
 • Kali <br><br><br><br>
 
-## 🌐Network:
+## 🌐 Network:
 • Network Plus <br><br>
 • Mikrotik
 <br><br><br><br>
 
-## 🐍Python Developer:
+## 🐍 Python Developer:
 • Web Scraping<br><br>
 • Automation <br><br>
 • Cli and Gui Apps <br><br>
