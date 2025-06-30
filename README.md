@@ -9,7 +9,9 @@
 • Kali <br><br><br><br>
 
 ## 🌐Network:
-• Mikrotik<br><br><br><br>
+• Network Plus <br><br>
+• Mikrotik
+<br><br><br><br>
 
 ## 🐍Python Developer:
 <br>
