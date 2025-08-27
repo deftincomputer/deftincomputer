@@ -1,7 +1,7 @@
 # About Me:
 
-💻 Computer Student<br><br>
-📡 Remote Freelance
+💻 Computer Engineer Student<br><br>
+📡 "Available for remote freelance projects [Linux, Python, Network]
 <br><br><br>
 
 ## 🐧 Linux:
@@ -13,11 +13,10 @@
 • Mikrotik
 <br><br><br><br>
 
-## 🐍 Python Developer:
+## 🐍 Python:
 • Web Scraping<br><br>
 • Automation <br><br>
-• Cli and Gui Apps <br><br>
-• MySql<br><br><br><br>
+• Cli Python Scripts <br><br>
 
 ## 📟 C++:
 • Simple console Apps<br><br>
